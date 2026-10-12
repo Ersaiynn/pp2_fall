@@ -1,0 +1,4 @@
+Alice 20 Almaty
+Bob 21 Astana
+Dana 19 Shymkent
+Erlan 22 Aktau
